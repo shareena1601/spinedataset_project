@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Shareena_ML_B7_project_SpineDataset.py
